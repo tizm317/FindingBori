@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Scenes/Episode2.unity
+    - Assets/Scenes/Episode3.unity
+    - Assets/Scenes/Main.unity
+    - "Assets/\uC774\uD638\uC601/Scripts/\uD37C\uC990/Ep1/Ep1.cs"
+    - "Assets/\uC774\uD638\uC601/Scripts/\uD37C\uC990/Ep2/Ep2.cs"
+    - "Assets/\uC774\uD638\uC601/Scripts/\uD37C\uC990/Ep3/Ep3.cs"
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 0000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
